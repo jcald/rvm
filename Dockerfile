@@ -1,6 +1,6 @@
 FROM ubuntu
-MAINTAINER Martin Chan <osiutino@gmail.com>
-ENV REFRESHED_AT 2015-03-31
+MAINTAINER José Calderón-Celis <josecalderoncelis@gmail.com>
+ENV REFRESHED_AT 2016-01-11
 
 USER root
 
